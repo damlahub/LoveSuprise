@@ -1,3 +1,9 @@
+const customizedTexts={
+    title: `❤️ Damla & Kerem ❤️ `,
+    image:`assets/images/damker.jpeg`,
+    description:`Doğum günün kutlu olsun nice mutlu bizli senelere❤️ `,
+    clip:`assets/videos/video.mp4`
+}
 const sentences = [
     "Gülüşünü seviyorum ❤️",
     "Beni hep düşündüğün için ❤️",
