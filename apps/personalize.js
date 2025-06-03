@@ -1,6 +1,6 @@
 const customizedTexts={
-    title: `❤️ Damla & Kerem ❤️ `,
-    image:`assets/images/damker.jpeg`,
+    title: `❤️ First Name & Second Name ❤️ `,
+    image:`assets/images/loveImage.jpg`,
     description:`Doğum günün kutlu olsun nice mutlu bizli senelere❤️ `,
     clip:`assets/videos/video.mp4`
 }
